@@ -9,6 +9,7 @@ MemeGen is a web application which generates memes automatically according to th
   <img src="images/meme1.jpeg" width="275" height ="200" />
   <img src="images/meme2.jpeg" width="275" height ="200"/> 
   <img src="images/meme3.jpeg" width="275" height ="200" />
+  
 </p>
 
 ## How it works:
@@ -23,7 +24,7 @@ The understanding of working of this project will require you to understand a fe
 It is little wonder that there was a huge image dataset playing its part behind the scenes. Image datasets brings in the importance of CNN with it. If you are new to the term, keep reading! 
 ___________________________________
 
-## **Balanced data:**
+##  **Balanced data:**
 
 First off, let us understand the importance of **good data** and more importantly, a **balanced data**. In simple terms, balanced data is a case where we have equal or almost equal data for all the available classes. 
 
